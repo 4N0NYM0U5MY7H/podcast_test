@@ -8,5 +8,5 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Run Feed Generator
-        uses: 4N0NYM0U5MY7H/podcast_generator@main
+        uses: 4N0NYM0U5MY7H/podcast_feed_generator@main
         
