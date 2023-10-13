@@ -1,5 +1,6 @@
 # The Future in Tech
 > **NOTE**: This repository was created as a learning project for the LinkedIn Learning course [Practical GitHub Actions](https://www.linkedin.com/learning/practical-github-actions/).
+> Actions and deployment are automated using the [podcast_feed_generator](https://github.com/4N0NYM0U5MY7H/podcast_feed_generator) action.
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
