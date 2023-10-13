@@ -1,4 +1,5 @@
 # The Future in Tech
+> **NOTE**: This repository was created as a learning project for the LinkedIn Learning course [Practical GitHub Actions](https://www.linkedin.com/learning/practical-github-actions/).
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
